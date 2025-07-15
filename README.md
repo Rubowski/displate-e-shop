@@ -1,3 +1,5 @@
+🔒 This project is unlicensed and intended for educational purposes only.
+
 # 🖼️ Displate-Inspired WordPress E-shop
 
 A fan-made, locally hosted e-commerce website built using WordPress and WooCommerce, inspired by the concept of Displate but fully customized with a unique design and layout.

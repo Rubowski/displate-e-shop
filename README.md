@@ -37,6 +37,8 @@ This project includes the core functionality of a modern e-shop, such as:
 ## 📸 Screenshots
 
 ```markdown
-![Homepage](screenshots\homepage.png)
-![Product Page](screenshots\shop.png)
-![Cart](screenshots\cart.png)
+![Homepage](screenshots/homepage.png)
+![Shop](screenshots/shop.png)
+![Cart](screenshots/cart.png)
+![Contact Page](screenshots/contact_page.png)
+![Checkout](screenshots/checkout.png)

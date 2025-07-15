@@ -36,8 +36,6 @@ This project includes the core functionality of a modern e-shop, such as:
 
 ## 📸 Screenshots
 
-> Add images to a `/screenshots/` folder and link them here once ready:
-
 ```markdown
 ![Homepage](screenshots/homepage.png)
 ![Product Page](screenshots/product-page.png)

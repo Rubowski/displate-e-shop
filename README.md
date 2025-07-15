@@ -36,6 +36,31 @@ This project includes the core functionality of a modern e-shop, such as:
 
 ---
 
+## 📦 Installation Instructions
+
+This project is a locally hosted WordPress e-shop built with WooCommerce. To set it up:
+
+1. **Install XAMPP** (or another local web server with PHP and MySQL support).
+2. Clone or download this repository into your htdocs directory.
+3. Create a new MySQL database (e.g., wordpress_displate) via phpMyAdmin.
+4. Import the provided database dump file.
+5. Edit wp-config.php to match your local database credentials:
+   ```
+      define('DB_NAME', 'wordpress_displate');
+      define('DB_USER', 'root');
+      define('DB_PASSWORD', '');
+      define('DB_HOST', 'localhost');
+6. Start Apache and MySQL from your XAMPP control panel.
+7. Visit http://localhost/your-project-folder in your browser.
+
+⚠️ If the site appears blank or broken, ensure that all theme and plugin folders are in the correct location under wp-content/ .
+
+⚠️ The images used in this website (shown in the screenshots) are not included in the repository.
+
+⚠️ You need an existing installation of the WordPress environment to implement this project. If you don't have one, after installing XAMPP (or another local web server) download and install WordPress.
+
+---
+
 ## 📸 Screenshots
 
 <p align="center"><strong>Homepage</strong></p>

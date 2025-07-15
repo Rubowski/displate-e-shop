@@ -1,0 +1,41 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE/editor/project files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# XAMPP/MySQL dump files
+*.sql
+*.sql.gz
+*.zip
+*.tar
+*.tar.gz
+
+# Environment/configuration
+wp-config.php
+.env
+.env.*
+
+# WordPress uploads and cache
+wp-content/uploads/
+wp-content/cache/
+wp-content/backups/
+
+# Logs and error files
+*.log
+error_log
+debug.log
+
+# WordPress core files
+wp-admin/
+wp-includes/
+
+# Temporary files
+*.bak
+*.tmp
+*.swp

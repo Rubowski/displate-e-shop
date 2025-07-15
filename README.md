@@ -9,13 +9,13 @@ A fan-made, locally hosted e-commerce website built using WordPress and WooComme
 This project includes the core functionality of a modern e-shop, such as:
 
 - ✅ Product filtering and categorization
-- 🛍️ Variable products (e.g. different sizes or styles)
+- 🛍️ Variable products (different sizes and styles)
 - 💳 Multiple payment methods (locally configured)
 - 🌍 Support for different shipping zones, methods, and costs
 - 🎟️ Discount coupon code functionality
 - 🔖 On-sale product badges and display
 - 📬 Contact form (via WPForms)
-- 🧩 Custom design using Elementor and Astra theme
+- 🧩 Custom design using Astra theme
 - ⚙️ Booster plugins to enhance WooCommerce features
 
 ---

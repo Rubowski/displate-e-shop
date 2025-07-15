@@ -1,0 +1,4 @@
+{
+    "0" : "= 7.2.6 12/05/2025 =",
+    "1" : "* FIXED - PRODUCTS - User Products - Resolved an XSS vulnerability by sanitizing input fields"
+}
